@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @paragmraw
 - 👀 I’m interested in Data Science, AI/ML and 3D Modelling
 - 🌱 I’m currently learning CSE
--- 📫 Reach me at paragm.raw@gmail.com
+- 📫 Reach me at paragm.raw@gmail.com
