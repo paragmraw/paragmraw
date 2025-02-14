@@ -41,7 +41,7 @@ I'm a **Junior Data Engineer** at StoneX Group Inc. with a strong background in 
 - [Natural Language Processing on Google Cloud](https://www.coursera.org/account/accomplishments/verify/76LC7HG2MFPY)
 
 ## 📫 Connect With Me
-- **Portfolio:** [paragmandal.in](https://paragmandal.in)
+- **Portfolio:** [paragmandal.in](https://parag.tech)
 - **GitHub:** [github.com/paragmraw](https://github.com/paragmraw)
 - **LinkedIn:** [linkedin.com/in/paragmraw](https://linkedin.com/in/paragmraw)
 
