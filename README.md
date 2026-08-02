@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-ML%20Systems-1f6feb?style=for-the-badge&logo=pytorch&logoColor=white" alt="Focus" />
   <br/>
-  <img src="https://img.shields.io/badge/Georgia%20Tech-OMSCS%20(ML)-b8860b?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="OMSCS" />
+  <img src="https://img.shields.io/badge/Georgia%20Tech-OMSCS%20(ML)-b8860b?style=for-the-badge&logo=googlescholar&logoColor=white" alt="OMSCS" />
   <img src="https://img.shields.io/badge/Databricks-Pro%20Data%20Engineer-e34f26?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Azure-AI%20Engineer%20Associate-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <br/>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="center">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c&theme=light"><img src="https://skillicons.dev/icons?i=python,java,typescript,c&theme=light" alt="Programming langs" /></picture>
+      <img src="https://skillicons.dev/icons?i=python,java,typescript,c&theme=light" alt="Programming langs" />
     </td>
   </tr>
   <tr><td><br/></td></tr>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td align="center">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light" alt="ML/AI" /></picture>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light" alt="ML/AI" />
     </td>
   </tr>
   <tr><td><br/></td></tr>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kafka,githubactions,terraform&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kafka,githubactions,terraform&theme=light"><img src="https://skillicons.dev/icons?i=docker,kafka,githubactions,terraform&theme=light" alt="Data eng" /></picture>
+      <img src="https://skillicons.dev/icons?i=docker,kafka,githubactions,terraform&theme=light" alt="Data eng" />
     </td>
   </tr>
   <tr><td><br/></td></tr>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td align="center">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis&theme=light"><img src="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis&theme=light" alt="Backend/Cloud" /></picture>
+      <img src="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis&theme=light" alt="Backend/Cloud" />
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
 <!-- Scrolling tech marquee -->
 <p align="center">
   <a href="https://github.com/paragmraw">
-    <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=paragmraw&theme=github-green&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950"><source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=paragmraw&theme=github-green&hide_border=true&background=FFFFFF&ring=238636&fire=238636&currStreakLabel=238636"><img src="https://streak-stats.demolab.com?user=paragmraw&theme=github-green&hide_border=true&background=FFFFFF&ring=238636&fire=238636&currStreakLabel=238636" alt="GitHub Streak" /></picture>
+    <img src="https://streak-stats.demolab.com?user=paragmraw&theme=github-green&hide_border=true&background=FFFFFF&ring=238636&fire=238636&currStreakLabel=238636" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -89,7 +89,7 @@
 <details>
 <summary>📊 <b>tech marquee</b> (click to expand)</summary>
 <p>
-  <a href="https://skillicons.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,docker,kafka,githubactions,terraform,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=dark&perline=20"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,docker,kafka,githubactions,terraform,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20"><img src="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,docker,kafka,githubactions,terraform,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20" alt="Tech stack marquee" width="800" /></picture></a>
+    <img src="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,docker,kafka,githubactions,terraform,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20" alt="Tech stack marquee" width="800" />
 </p>
 </details>
 
