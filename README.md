@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing banner -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=700&height=70&lines=%24+whoami;%3E+Parag+Mandal;%3E+AI+%26+Data+Engineer;%3E+Georgia+Tech+OMSCS+%7C+ML;%3E+building+RAG%2C+vision%2C+scale" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=700&height=70&lines=%24+whoami;%3E+Parag+Mandal;%3E+AI+%26+Data+Engineer;%3E+Georgia+Tech+OMSCS+%7C+ML;%3E+building+RAG%2C+vision%2C+scale"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=238636&center=true&vCenter=true&random=false&width=700&height=70&lines=%24+whoami;%3E+Parag+Mandal;%3E+AI+%26+Data+Engineer;%3E+Georgia+Tech+OMSCS+%7C+ML;%3E+building+RAG%2C+vision%2C+scale"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=238636&center=true&vCenter=true&random=false&width=700&height=70&lines=%24+whoami;%3E+Parag+Mandal;%3E+AI+%26+Data+Engineer;%3E+Georgia+Tech+OMSCS+%7C+ML;%3E+building+RAG%2C+vision%2C+scale" alt="Typing SVG" /></picture></a>
 
 <!-- Animated badge row -->
 <p>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,typescript,c" alt="Programming langs" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c&theme=light"><img src="https://skillicons.dev/icons?i=python,java,typescript,c&theme=light" alt="Programming langs" /></picture>
     </td>
   </tr>
   <tr><td><br/></td></tr>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML/AI" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light" alt="ML/AI" /></picture>
     </td>
   </tr>
   <tr><td><br/></td></tr>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=spark,docker,kafka,apache" alt="Data eng" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spark,docker,kafka,apache&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spark,docker,kafka,apache&theme=light"><img src="https://skillicons.dev/icons?i=spark,docker,kafka,apache&theme=light" alt="Data eng" /></picture>
     </td>
   </tr>
   <tr><td><br/></td></tr>
@@ -71,7 +71,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis" alt="Backend/Cloud" />
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis&theme=light"><img src="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis&theme=light" alt="Backend/Cloud" /></picture>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@
 <!-- Scrolling tech marquee -->
 <p align="center">
   <a href="https://github.com/paragmraw">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=paragmraw&theme=github-green&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub Streak" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=paragmraw&theme=github-green&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=paragmraw&theme=github-green&hide_border=true&background=FFFFFF&ring=238636&fire=238636&currStreakLabel=238636&currStreakNum=1F2328"><img src="https://github-readme-streak-stats.herokuapp.com?user=paragmraw&theme=github-green&hide_border=true&background=FFFFFF&ring=238636&fire=238636&currStreakLabel=238636&currStreakNum=1F2328" alt="GitHub Streak" /></picture>
   </a>
 </p>
 
@@ -89,7 +89,7 @@
 <details>
 <summary>📊 <b>tech marquee</b> (click to expand)</summary>
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,spark,docker,kafka,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=dark&perline=20" alt="Tech stack marquee" width="800" /></a>
+  <a href="https://skillicons.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,spark,docker,kafka,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=dark&perline=20"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,spark,docker,kafka,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20"><img src="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,spark,docker,kafka,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20" alt="Tech stack marquee" width="800" /></picture></a>
 </p>
 </details>
 
@@ -129,18 +129,18 @@ A computer vision system for real-time human detection, tracking, and re-identif
 
 <!-- Top languages card -->
 <p>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paragmraw&layout=compact&hide_border=true&theme=chartbrew-dark&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Top Languages" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paragmraw&layout=compact&hide_border=true&theme=chartbrew-dark&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paragmraw&layout=compact&hide_border=true&theme=chartbrew-light&bg_color=FFFFFF&title_color=238636&text_color=1F2328"><img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paragmraw&layout=compact&hide_border=true&theme=chartbrew-light&bg_color=FFFFFF&title_color=238636&text_color=1F2328" alt="Top Languages" /></picture>
 </p>
 
 <!-- Activity graph -->
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paragmraw&theme=github-compact&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=C9D1D9&area=true&area_color=238636" width="90%" alt="Activity Graph" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=paragmraw&theme=github-compact&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=C9D1D9&area=true&area_color=238636"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=paragmraw&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=238636&line=238636&point=1F2328&area=true&area_color=2EA04366"><img src="https://github-readme-activity-graph.vercel.app/graph?username=paragmraw&theme=github-compact&hide_border=true&bg_color=FFFFFF&color=238636&line=238636&point=1F2328&area=true&area_color=2EA04366" width="90%" alt="Activity Graph" /></picture>
 </p>
 
 <!-- Snake animation -->
 <h4>🐍 contribution snake</h4>
 <p>
-  <img src="https://raw.githubusercontent.com/paragmraw/paragmraw/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paragmraw/paragmraw/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paragmraw/paragmraw/output/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/paragmraw/paragmraw/output/github-contribution-grid-snake.svg" alt="Contribution snake" /></picture>
 </p>
 <i>auto-updates daily via GitHub Action · runs at 00:00 UTC</i>
 
