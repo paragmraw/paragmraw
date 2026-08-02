@@ -1,58 +1,163 @@
-# Parag Mandal
+<div align="center">
 
-AI and data engineer focused on machine learning systems, retrieval workflows, and scalable backend platforms.
+<!-- Typing banner -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&random=false&width=700&height=70&lines=%24+whoami;%3E+Parag+Mandal;%3E+AI+%26+Data+Engineer;%3E+Georgia+Tech+OMSCS+%7C+ML;%3E+building+RAG%2C+vision%2C+scale" alt="Typing SVG" /></a>
 
-<p align="left">
-	<img src="https://img.shields.io/badge/Focus-ML%20Systems-1f6feb?style=for-the-badge" alt="Focus Badge" />
-	<img src="https://img.shields.io/badge/Georgia%20Tech-OMSCS%20(ML)-b8860b?style=for-the-badge" alt="Education Badge" />
-	<img src="https://img.shields.io/badge/Databricks-Certified%20Professional-e34f26?style=for-the-badge" alt="Certification Badge" />
+<!-- Animated badge row -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-ML%20Systems-1f6feb?style=for-the-badge&logo=pytorch&logoColor=white" alt="Focus" />
+  <br/>
+  <img src="https://img.shields.io/badge/Georgia%20Tech-OMSCS%20(ML)-b8860b?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="OMSCS" />
+  <img src="https://img.shields.io/badge/Databricks-Pro%20Data%20Engineer-e34f26?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Azure-AI%20Engineer%20Associate-0078d4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=paragmraw&style=for-the-badge&label=Visitors&color=3FB950" alt="Visitor count" />
 </p>
 
-<p align="left">
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragmraw&layout=compact&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### `$ whoami`
+
+```bash
+┌──(parag@omscs)──[~]
+└─$ whoami
+
+> AI and data engineer focused on machine learning systems,
+  retrieval workflows, and scalable backend platforms.
+
+# fun facts
+# currently grinding through Georgia Tech OMSCS (ML track)
+# I make machines see (vision), read (RAG/NLP), and scale (Spark/Databricks)
+# Databricks Pro + Azure AI Engineer certified
+# caffeine -> [tokens] -> [gradients] -> [ship]
+```
+
+---
+
+### `$ cat stack.json`
+
+<table>
+  <tr>
+    <td align="center" width="100%"><b>Programming</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,typescript,c" alt="Programming langs" />
+    </td>
+  </tr>
+  <tr><td><br/></td></tr>
+  <tr>
+    <td align="center" width="100%"><b>ML &amp; AI</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="ML/AI" />
+    </td>
+  </tr>
+  <tr><td><br/></td></tr>
+  <tr>
+    <td align="center" width="100%"><b>Data Engineering</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spark,docker,kafka,apache" alt="Data eng" />
+    </td>
+  </tr>
+  <tr><td><br/></td></tr>
+  <tr>
+    <td align="center" width="100%"><b>Backend &amp; Cloud</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi,azure,aws,kubernetes,postgres,redis" alt="Backend/Cloud" />
+    </td>
+  </tr>
+</table>
+
+<!-- Scrolling tech marquee -->
+<p align="center">
+  <a href="https://github.com/paragmraw">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=paragmraw&theme=github-green&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub Streak" />
+  </a>
 </p>
 
-## Technical Focus
+<div align="center">
 
-- Retrieval-Augmented Generation and NLP workflows
-- Machine learning model development and evaluation
-- Data platform engineering with distributed processing
-- API and microservice architecture for AI applications
-- Containerized deployment and cloud-native infrastructure
+<!-- Marquee via inline SVG animation -->
+<details>
+<summary>📊 <b>tech marquee</b> (click to expand)</summary>
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,spark,docker,kafka,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=dark&perline=20" alt="Tech stack marquee" width="800" /></a>
+</p>
+</details>
 
-## Top Key Project
+</div>
 
-### Vision-Based Human Detection and Tracking System
+---
 
-A computer vision system designed for real-time human detection, tracking, and re-identification under occlusion.
+### `$ ls featured/`
 
-Core implementation stack:
+<details open>
+<summary><b>🎯 Vision-Based Human Detection &amp; Tracking System</b></summary>
 
-- ResNet-50 for feature extraction
-- YOLO-based pose estimation and detection components
-- Python-based inference and control pipeline
-- Real-time tracking logic for continuous frame alignment
+<p>
+A computer vision system for real-time human detection, tracking, and re-identification under occlusion.
+</p>
 
-## Technology Stack
+<p>
+  <img src="https://img.shields.io/badge/ResNet--50-feature%20extraction-FF6F61?style=flat-square" alt="ResNet-50" />
+  <img src="https://img.shields.io/badge/YOLO-pose%20%2F%20detection-00FFFF?style=flat-square" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Python-inference%20pipeline-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Real--time-tracking-3FB950?style=flat-square" alt="Real-time" />
+</p>
 
-| Domain | Stack |
-| --- | --- |
-| Programming | Python, Java, TypeScript, C |
-| ML and AI | PyTorch, TensorFlow, scikit-learn, MLflow, RAG, NLP, YOLO |
-| Data Engineering | Databricks, Apache Spark, Delta Lake, ETL/ELT pipelines |
-| Backend | FastAPI, REST APIs, microservices |
-| Databases | SQL Server, PostgreSQL, Redis, Azure Cosmos DB |
-| Cloud and Infra | Azure, AWS, Docker, Kubernetes |
+<p>
+  <a href="https://github.com/paragmraw">
+    <img src="https://img.shields.io/badge/%E2%96%B6_run--repo-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open repo" />
+  </a>
+</p>
 
-## Education and Credentials
+</details>
 
-- Georgia Institute of Technology, OMSCS (Machine Learning), 2024 to present
-- Dayananda Sagar University, B.Tech in Computer Science and Engineering, 2020 to 2024
-- Databricks Certified Data Engineer Professional (issued Feb 2026)
-- Azure AI Engineer Associate (issued Jan 2026)
+---
 
-## Profiles
+### `$ stats --live`
 
-- Portfolio: [parag.tech](https://parag.tech)
-- LinkedIn: [linkedin.com/in/paragmraw](https://www.linkedin.com/in/paragmraw/)
-- GitHub: [github.com/paragmraw](https://github.com/paragmraw)
+<div align="center">
+
+<!-- Top languages card -->
+<p>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paragmraw&layout=compact&hide_border=true&theme=chartbrew-dark&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+<!-- Activity graph -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paragmraw&theme=github-compact&hide_border=true&bg_color=0D1117&color=3FB950&line=3FB950&point=C9D1D9&area=true&area_color=238636" width="90%" alt="Activity Graph" />
+</p>
+
+<!-- Snake animation -->
+<h4>🐍 contribution snake</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/paragmraw/paragmraw/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
+<i>auto-updates daily via GitHub Action · runs at 00:00 UTC</i>
+
+</div>
+
+---
+
+### `$ connect`
+
+<p align="center">
+  <a href="https://parag.tech"><img src="https://img.shields.io/badge/parag.tech-portfolio-3FB950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/paragmraw/"><img src="https://img.shields.io/badge/LinkedIn-paragmraw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/paragmraw"><img src="https://img.shields.io/badge/GitHub-paragmraw-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<div align="center">
+
+<sub><i>⌨️ with 🤖 + ☕ by parag mandal · powered by tokens, gradients, and curiosity</i></sub>
+
+</div>
