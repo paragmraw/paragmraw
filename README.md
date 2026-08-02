@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center">
-      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spark,docker,kafka,apache&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spark,docker,kafka,apache&theme=light"><img src="https://skillicons.dev/icons?i=spark,docker,kafka,apache&theme=light" alt="Data eng" /></picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kafka,githubactions,terraform&theme=dark"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kafka,githubactions,terraform&theme=light"><img src="https://skillicons.dev/icons?i=docker,kafka,githubactions,terraform&theme=light" alt="Data eng" /></picture>
     </td>
   </tr>
   <tr><td><br/></td></tr>
@@ -89,7 +89,7 @@
 <details>
 <summary>📊 <b>tech marquee</b> (click to expand)</summary>
 <p>
-  <a href="https://skillicons.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,spark,docker,kafka,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=dark&perline=20"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,spark,docker,kafka,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20"><img src="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,spark,docker,kafka,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20" alt="Tech stack marquee" width="800" /></picture></a>
+  <a href="https://skillicons.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,docker,kafka,githubactions,terraform,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=dark&perline=20"><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,docker,kafka,githubactions,terraform,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20"><img src="https://skillicons.dev/icons?i=python,java,typescript,c,pytorch,tensorflow,sklearn,opencv,docker,kafka,githubactions,terraform,fastapi,azure,aws,kubernetes,postgres,redis,git,linux,vscode&theme=light&perline=20" alt="Tech stack marquee" width="800" /></picture></a>
 </p>
 </details>
 
