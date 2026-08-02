@@ -79,7 +79,7 @@
 <!-- Scrolling tech marquee -->
 <p align="center">
   <a href="https://github.com/paragmraw">
-    <img src="https://streak-stats.demolab.com?user=paragmraw&theme=github-green&hide_border=true&background=FFFFFF&ring=238636&fire=238636&currStreakLabel=238636" alt="GitHub Streak" />
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paragmraw/paragmraw/output/github-streak-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paragmraw/paragmraw/output/github-streak-light.svg"><img src="https://raw.githubusercontent.com/paragmraw/paragmraw/output/github-streak-light.svg" alt="GitHub Streak" /></picture>
   </a>
 </p>
 

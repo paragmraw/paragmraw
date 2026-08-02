@@ -1,0 +1,37 @@
+name: Refresh Streak SVGs
+
+# Fetch the GitHub Streak SVG once per day from demolab.com (which
+# GitHub's camo proxy currently can't reach) and publish to the
+# `output` branch, so the README can reference a raw.githubusercontent.com
+# URL that doesn't go through camo.
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch light-theme streak SVG
+        run: |
+          mkdir -p assets
+          curl -fsSL "https://streak-stats.demolab.com?user=paragmraw&theme=github-green&hide_border=true&background=FFFFFF&ring=238636&fire=238636&currStreakLabel=238636" \
+            -o assets/github-streak-light.svg
+
+      - name: Fetch dark-theme streak SVG
+        run: |
+          curl -fsSL "https://streak-stats.demolab.com?user=paragmraw&theme=github-green&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" \
+            -o assets/github-streak-dark.svg
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
