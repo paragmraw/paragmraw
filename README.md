@@ -96,22 +96,27 @@
 ### `$ ls featured/`
 
 <details open>
-  <summary><b>🎯 Vision-Based Human Detection & Tracking System</b></summary>
+  <summary><b>⚖️ nyaya — Indian Legal Research Platform</b></summary>
 
   <p>
-    A computer vision system for real-time human detection, tracking, and re-identification under occlusion.
+    A monorepo for Indian-law tooling: MCP server, Next.js frontend, and LangGraph chat assistant for Indian legal research (Constitution, IPC, CrPC, CPC, Evidence Act, BNS/BNSS/BSA 2023, commercial statutes, landmark Supreme Court judgments).
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/ResNet--50-feature%20extraction-FF6F61?style=flat-square" alt="ResNet-50" />
-    <img src="https://img.shields.io/badge/YOLO-pose%20%2F%20detection-00FFFF?style=flat-square" alt="YOLO" />
-    <img src="https://img.shields.io/badge/Python-inference%20pipeline-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Real--time-tracking-3FB950?style=flat-square" alt="Real-time" />
+    <img src="https://img.shields.io/badge/MCP%20Server-24%20tools%2C%2011%20resources-1f6feb?style=flat-square" alt="MCP Server" />
+    <img src="https://img.shields.io/badge/Next.js%2016-App%20Router%2C%20static%20export-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/LangGraph-multi--agent%20chat-6E40C9?style=flat-square" alt="LangGraph" />
+    <img src="https://img.shields.io/badge/NVIDIA-Nemotron-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Nemotron" />
+    <img src="https://img.shields.io/badge/Python-FastAPI%20%2B%20uv-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Deploy-Railway%20Docker-0B0D17?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
   </p>
 
   <p>
-    <a href="https://github.com/paragmraw">
+    <a href="https://github.com/paragmraw/nyaya">
       <img src="https://img.shields.io/badge/%E2%96%B6_run--repo-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open repo" />
+    </a>
+    <a href="https://nyaya.parag.tech">
+      <img src="https://img.shields.io/badge/%E2%96%B6_live--demo-3FB950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live demo" />
     </a>
   </p>
 
