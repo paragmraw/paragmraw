@@ -24,6 +24,8 @@
 
 ---
 
+<div align="center">
+
 ### `$ whoami`
 
 ```bash
@@ -40,7 +42,11 @@
 # caffeine -> [tokens] -> [gradients] -> [ship]
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ### `$ cat stack.json`
 
@@ -79,6 +85,8 @@
   </tr>
 </table>
 
+</div>
+
 <div align="center">
 
 <!-- Marquee via inline SVG animation -->
@@ -92,6 +100,8 @@
 </div>
 
 ---
+
+<div align="center">
 
 ### `$ ls featured/`
 
@@ -122,7 +132,11 @@
 
 </details>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### `$ stats --live`
 
@@ -150,18 +164,24 @@
 
 </div>
 
+</div>
+
 ---
+
+<div align="center">
 
 ### `$ connect`
 
-<p align="center">
+<div align="center">
   <a href="https://parag.tech"><img src="https://img.shields.io/badge/parag.tech-portfolio-3FB950?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/paragmraw/"><img src="https://img.shields.io/badge/LinkedIn-paragmraw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/paragmraw"><img src="https://img.shields.io/badge/GitHub-paragmraw-6E40C9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+</div>
 
 <div align="center">
 
 <sub><i>⌨️ with 🤖 + ☕ by parag mandal · powered by tokens, gradients, and curiosity</i></sub>
+
+</div>
 
 </div>
